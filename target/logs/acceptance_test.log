@@ -1,0 +1,288 @@
+INFO  [main] 2018-02-28 17:47:17.717: [common.common1]: opening browser
+INFO  [main] 2018-02-28 17:47:23.424: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 17:47:23.424: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 17:47:54.390: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 17:47:56.137: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:47:56.333: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:47:56.672: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 17:47:56.914: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:47:57.122: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:47:57.245: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:47:57.388: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:47:57.529: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:47:57.634: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 17:47:57.786: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:47:58.000: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:47:58.183: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:47:58.277: [common.common1]: [[ChromeDriver: chrome on XP (354ddb20d225c2923a1d5a3a1217ddee)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 17:47:58.277: [test.CreateStepDefination]: second comment
+INFO  [main] 2018-02-28 17:47:59.122: [common.common1]: opening browser
+INFO  [main] 2018-02-28 17:48:02.591: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 17:48:02.591: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 17:48:33.496: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 17:48:34.124: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:48:34.252: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:48:34.517: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 17:48:34.778: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:48:34.949: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:48:35.081: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:48:35.223: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:48:35.367: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:48:35.463: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 17:48:35.631: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:48:35.751: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:48:35.865: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:48:35.967: [common.common1]: [[ChromeDriver: chrome on XP (9bb7776e60a5c4983cc845655a8429a5)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 17:48:35.967: [test.CreateStepDefination]: second comment in clicking continue without filling email address
+INFO  [main] 2018-02-28 17:52:31.868: [common.common1]: opening browser
+INFO  [main] 2018-02-28 17:52:37.145: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 17:52:37.145: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 17:53:08.231: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 17:53:09.946: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:10.074: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:10.375: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 17:53:10.634: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:10.816: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:10.955: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:11.101: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:11.242: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:11.358: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 17:53:11.513: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:11.624: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:11.740: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:11.860: [common.common1]: [[ChromeDriver: chrome on XP (5b20f4e91c28b65d6453f3cefc45956b)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 17:53:11.860: [test.CreateStepDefination]: second comment
+INFO  [main] 2018-02-28 17:53:13.485: [common.common1]: opening browser
+INFO  [main] 2018-02-28 17:53:17.155: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 17:53:17.155: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 17:53:47.942: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 17:53:48.659: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:48.776: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:49.021: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 17:53:49.270: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:49.444: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:49.571: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:49.713: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:49.846: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:49.942: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 17:53:50.115: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:50.233: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:50.347: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 17:53:50.451: [common.common1]: [[ChromeDriver: chrome on XP (3d0e7df1f99e0f9ad8e563167188c9a4)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 17:53:50.451: [test.CreateStepDefination]: second comment in clicking continue without filling email address
+INFO  [main] 2018-02-28 18:05:01.242: [common.common1]: opening browser
+INFO  [main] 2018-02-28 18:05:06.329: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 18:05:06.329: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 18:05:37.463: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 18:05:39.080: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:05:39.225: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:05:39.568: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 18:05:39.836: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:05:40.014: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:05:40.134: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:05:40.286: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:05:40.424: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:05:40.521: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 18:05:40.670: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:05:40.801: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:05:40.917: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:05:41.021: [common.common1]: [[ChromeDriver: chrome on XP (7c709ca88eacd559ab4d157e42fa5008)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 18:05:41.021: [test.CreateStepDefination]: second comment
+INFO  [main] 2018-02-28 18:05:42.829: [common.common1]: opening browser
+INFO  [main] 2018-02-28 18:05:46.505: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 18:05:46.505: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 18:06:17.395: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 18:06:18.017: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:06:18.141: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:06:18.393: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 18:06:18.631: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:06:18.817: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:06:18.964: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:06:19.103: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:06:19.243: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:06:19.338: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 18:06:19.486: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:06:19.610: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:06:19.733: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:06:19.874: [common.common1]: [[ChromeDriver: chrome on XP (17cc20f30ed4a17e42d22f9bf2226365)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 18:06:19.874: [test.CreateStepDefination]: second comment in clicking continue without filling email address
+INFO  [main] 2018-02-28 18:09:49.506: [common.common1]: opening browser
+INFO  [main] 2018-02-28 18:09:54.848: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 18:09:54.848: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 18:10:25.876: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 18:10:27.537: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:10:27.673: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:10:27.978: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 18:10:28.240: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:10:28.406: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:10:28.536: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:10:28.672: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:10:28.812: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:10:28.904: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 18:10:29.060: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:10:29.186: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:10:29.397: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:10:29.550: [common.common1]: [[ChromeDriver: chrome on XP (ca7399f59012097917a88e388ec24aaa)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 18:10:29.550: [test.CreateStepDefination]: second comment
+INFO  [main] 2018-02-28 18:10:30.531: [common.common1]: opening browser
+INFO  [main] 2018-02-28 18:10:34.556: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 18:10:34.556: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 18:11:05.468: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 18:11:06.101: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:11:06.232: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:11:06.488: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 18:11:06.744: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:11:06.908: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:11:07.044: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:11:07.186: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:11:07.326: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:11:07.423: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 18:11:07.571: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:11:07.686: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:11:07.816: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:11:07.927: [common.common1]: [[ChromeDriver: chrome on XP (0aeb963334b47c74d4bda87209a764fd)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 18:11:07.927: [test.CreateStepDefination]: second comment in clicking continue without filling email address
+INFO  [main] 2018-02-28 18:15:40.982: [common.common1]: opening browser
+INFO  [main] 2018-02-28 18:15:48.172: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 18:15:48.172: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 18:16:19.283: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 18:16:20.948: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:21.090: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:21.413: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 18:16:21.693: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:21.882: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:22.018: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:22.159: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:22.312: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:22.407: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 18:16:22.561: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:22.675: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:22.787: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:22.911: [common.common1]: [[ChromeDriver: chrome on XP (f8393117be30d219f13ea06c9a31bc2a)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 18:16:22.911: [test.CreateStepDefination]: second comment
+INFO  [main] 2018-02-28 18:16:23.901: [common.common1]: opening browser
+INFO  [main] 2018-02-28 18:16:28.198: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 18:16:28.198: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 18:16:58.946: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 18:16:59.587: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:59.718: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:16:59.958: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 18:17:00.207: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:17:00.382: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:17:00.516: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:17:00.658: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:17:00.797: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:17:00.891: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 18:17:01.039: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:17:01.165: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:17:01.309: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:17:01.411: [common.common1]: [[ChromeDriver: chrome on XP (b514f1613348f24090eaaacf450da176)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 18:17:01.411: [test.CreateStepDefination]: second comment in clicking continue without filling email address
+INFO  [main] 2018-02-28 18:20:16.591: [common.common1]: opening browser
+INFO  [main] 2018-02-28 18:20:21.892: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 18:20:21.892: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 18:20:52.943: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 18:20:54.586: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:20:54.720: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:20:55.032: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 18:20:55.262: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:20:55.429: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:20:55.556: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:20:55.714: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:20:55.853: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:20:55.945: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 18:20:56.097: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:20:56.221: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:20:56.351: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:20:56.467: [common.common1]: [[ChromeDriver: chrome on XP (2e2d34b471d3b5f0e52ce4f727ad2522)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 18:20:56.467: [test.CreateStepDefination]: second comment
+INFO  [main] 2018-02-28 18:20:57.261: [common.common1]: opening browser
+INFO  [main] 2018-02-28 18:21:01.245: [common.common1]: opened oscommerce
+INFO  [main] 2018-02-28 18:21:01.245: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-02-28 18:21:32.090: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-02-28 18:21:32.842: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:21:32.967: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:21:33.224: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-02-28 18:21:33.431: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:21:33.605: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:21:33.733: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:21:33.871: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:21:34.028: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:21:34.121: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-02-28 18:21:34.288: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:21:34.410: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:21:34.531: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-02-28 18:21:34.635: [common.common1]: [[ChromeDriver: chrome on XP (20838dde315b3e415d56d4de55ac2606)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-02-28 18:21:34.635: [test.CreateStepDefination]: second comment in clicking continue without filling email address
+INFO  [main] 2018-03-01 17:47:27.800: [common.common1]: opening browser
+INFO  [main] 2018-03-01 17:47:34.097: [common.common1]: opened oscommerce
+INFO  [main] 2018-03-01 17:47:34.097: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-03-01 17:48:04.853: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-03-01 17:48:06.656: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:06.798: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:07.099: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-03-01 17:48:07.281: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:07.457: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:07.598: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:07.753: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:07.888: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:07.987: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-03-01 17:48:08.139: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:08.255: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:08.375: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:08.475: [common.common1]: [[ChromeDriver: chrome on XP (34212a0527f785caa03b6cf21096ba99)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-03-01 17:48:08.475: [test.CreateStepDefination]: second comment
+INFO  [main] 2018-03-01 17:48:08.903: [common.common1]: opening browser
+INFO  [main] 2018-03-01 17:48:12.433: [common.common1]: opened oscommerce
+INFO  [main] 2018-03-01 17:48:12.437: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-03-01 17:48:43.073: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-03-01 17:48:43.778: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:43.884: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:44.140: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-03-01 17:48:44.240: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:44.412: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:44.533: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:44.677: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:44.815: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:44.911: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-03-01 17:48:45.073: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:45.210: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:45.342: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-03-01 17:48:45.519: [common.common1]: [[ChromeDriver: chrome on XP (eca6776eec2479bdd0569bcb759ee4f9)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-03-01 17:48:45.519: [test.CreateStepDefination]: second comment in clicking continue without filling email address
+INFO  [main] 2018-03-05 18:19:52.863: [common.common1]: opening browser
+INFO  [main] 2018-03-05 18:19:58.655: [common.common1]: opened oscommerce
+INFO  [main] 2018-03-05 18:19:58.656: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-03-05 18:20:29.299: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-03-05 18:20:31.321: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:20:31.567: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:20:31.937: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-03-05 18:20:32.104: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:20:32.278: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:20:32.403: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:20:32.531: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:20:32.674: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:20:32.764: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-03-05 18:20:32.910: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:20:33.017: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:20:33.133: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:20:33.242: [common.common1]: [[ChromeDriver: chrome on XP (6e1a9d5348ac1ef8329cf681ac0e81ef)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-03-05 18:20:33.243: [test.CreateStepDefination]: second comment
+INFO  [main] 2018-03-05 18:20:34.568: [common.common1]: opening browser
+INFO  [main] 2018-03-05 18:20:38.410: [common.common1]: opened oscommerce
+INFO  [main] 2018-03-05 18:20:38.410: [test.CreateStepDefination]: First comment
+INFO  [main] 2018-03-05 18:21:09.008: [common.common1]: Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[2]/u'clicked 
+INFO  [main] 2018-03-05 18:21:09.582: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:21:09.690: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:21:09.939: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='dob']]entered 
+INFO  [main] 2018-03-05 18:21:10.029: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='bodyContent']/form/div/div[2]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:21:10.185: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:21:10.296: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[3]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:21:10.433: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[4]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:21:10.582: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[5]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:21:10.675: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='bodyContent']/form/div/div[4]/table/tbody/tr[6]/td[2]/select]entered 
+INFO  [main] 2018-03-05 18:21:10.836: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='bodyContent']/form/div/div[5]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:21:10.964: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[1]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:21:11.064: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> xpath: //*[@id='bodyContent']/form/div/div[6]/table/tbody/tr[2]/td[2]/input]entered 
+INFO  [main] 2018-03-05 18:21:11.164: [common.common1]: [[ChromeDriver: chrome on XP (ba113fc6c335c915e70a46e553293421)] -> css selector: [type='radio'][value='f']]checked 
+INFO  [main] 2018-03-05 18:21:11.164: [test.CreateStepDefination]: second comment in clicking continue without filling email address
